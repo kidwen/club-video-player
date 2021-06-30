@@ -11,5 +11,5 @@ $base-line-height: 1.5;
 $heading-color: #159957;
 $text-color: #606c71;
 $link-color: #1e6bb8;
-$link-visited-color: #7d0ce8; // Import partials from `sass_dir` (defaults to `_sass`)
-@import "normalize", "base", "cayman", "syntax-highlighting";
+$link-visited-color: #7d0ce8; 
+@import "normalize", "base", "cayman", "syntax-highlighting"; // Import partials from `sass_dir` (defaults to `_sass`)
