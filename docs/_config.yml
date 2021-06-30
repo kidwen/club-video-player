@@ -1,1 +1,12 @@
+title: club-video-player
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  a flutter app to play videos.
+baseurl: "/club" # the subpath of your site, e.g. /blog
+url: "https://kidwen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  kidwen
+
+markdown: kramdown
+markdown_ext: md
+
 theme: jekyll-theme-cayman
