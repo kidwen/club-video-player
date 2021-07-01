@@ -16,6 +16,6 @@ bundle exec jekyll serve
 ```
 
 ### More info
-- [github page](https://pages.github.com/)
+- [github page](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 - [bundler](https://bundler.io/)
 - [jekyll](https://jekyllrb.com/)
