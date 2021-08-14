@@ -5,5 +5,5 @@ a flutter app to play videos
 
 Please refer to the full installation & usage documentation on the [website](https://kidwen.github.io/club-video-player). There, you'll find information about
 
-- [intro]()
-- [news]()
+- [intro](https://kidwen.github.io/club-video-player/)
+- [news](https://kidwen.github.io/club-video-player/news/)
