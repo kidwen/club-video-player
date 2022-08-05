@@ -2,6 +2,8 @@
 
 ### Run serve in local
 ```sh
+cd docs
+
 # install
 bundle install
 
