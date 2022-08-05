@@ -13,8 +13,8 @@ bundle update
 # build
 bundle exec jekyll build
 
-# run
-bundle exec jekyll serve
+# run and automatically refresh the page
+bundle exec jekyll serve --livereload
 ```
 
 ### More info
